@@ -1,0 +1,7 @@
+What is return statement?
+Ans:- return statement is used to exist the function and go back to the place from where it was called. 
+return [expression] 
+
+When function will return a None object?
+Ans:- return statement contains an expression that evalutes and returns the result. if there is no expression in the statement or the return statement itself not 
+present inside a function then function will return None object. 
